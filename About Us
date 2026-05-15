@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Blogs | LWB Construction</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Our Blogs</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="services.html">Services</a>
+<a href="about.html">About Us</a>
+<a href="blogs.html">Blogs</a>
+<a href="contact.html">Contact Us</a>
+</nav>
+
+</header>
+
+<section class="section">
+
+<div class="box">
+<h3>How To Maintain Your Roof</h3>
+
+<p>
+Learn simple roofing maintenance tips to protect your property and extend roof life.
+</p>
+
+</div>
+
+<div class="box">
+
+<h3>Benefits of Concrete Driveways</h3>
+
+<p>
+Concrete driveways offer durability, low maintenance, and long-lasting performance.
+</p>
+
+</div>
+
+<div class="box">
+
+<h3>Home Remodeling Ideas</h3>
+
+<p>
+Modern remodeling ideas to improve comfort, functionality, and property value.
+</p>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>© 2026 LWB Construction</p>
+
+</footer>
+
+</body>
+</html>
