@@ -1,0 +1,89 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  font-family:Arial, sans-serif;
+  background:#f4f4f4;
+  color:#333;
+}
+
+header{
+  background:#222;
+  color:white;
+  padding:20px;
+  text-align:center;
+}
+
+nav{
+  margin-top:10px;
+}
+
+nav a{
+  color:white;
+  margin:0 15px;
+  text-decoration:none;
+  font-size:18px;
+}
+
+.hero{
+  background:#007bff;
+  color:white;
+  text-align:center;
+  padding:100px 20px;
+}
+
+.hero h2{
+  font-size:45px;
+  margin-bottom:20px;
+}
+
+.hero p{
+  font-size:20px;
+  margin-bottom:30px;
+}
+
+.btn{
+  background:white;
+  color:#007bff;
+  padding:12px 25px;
+  text-decoration:none;
+  border-radius:5px;
+  font-weight:bold;
+}
+
+.section{
+  padding:60px 20px;
+  text-align:center;
+}
+
+.box{
+  background:white;
+  width:300px;
+  margin:20px auto;
+  padding:25px;
+  border-radius:10px;
+  box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+footer{
+  background:#222;
+  color:white;
+  text-align:center;
+  padding:20px;
+  margin-top:40px;
+}
+
+.whatsapp{
+  position:fixed;
+  bottom:20px;
+  right:20px;
+  background:#25D366;
+  color:white;
+  padding:15px 20px;
+  border-radius:50px;
+  text-decoration:none;
+  font-weight:bold;
+}
